@@ -13,7 +13,9 @@ CREATE TABLE books(
   series_id INTEGER
 );
 
-CREATE TABLE series();
+CREATE TABLE series(
+  
+);
 
 CREATE TABLE authors();
 

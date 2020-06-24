@@ -29,3 +29,15 @@ CREATE TABLE subgenres(
   id INTEGER PRIMARY KEY,
   name TEXT
 );
+
+CREATE TABLE character_books(
+
+);
+
+
+
+
+
+
+
+
